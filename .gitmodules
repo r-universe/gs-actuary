@@ -5,6 +5,9 @@
 [submodule "actuarialfitdist"]
 	path = actuarialfitdist
 	url = https://github.com/gs-actuary/actuarialfitdist
+[submodule "raterevision"]
+	path = raterevision
+	url = https://github.com/gs-actuary/raterevision
 [submodule "ratingtables"]
 	path = ratingtables
 	url = https://github.com/gs-actuary/ratingtables
